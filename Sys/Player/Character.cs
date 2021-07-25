@@ -20,7 +20,7 @@ namespace RPGBattleSystem.Sys.Player
             setPlayerHp(45);// player hp
         }// Player initiation [...]
 
-        #region Player Incapsulation [...]
+        #region Player Encapsulation [...]
         public void setPlayerName(string name) { this.pName = name; }
         public string getPlayerName() { return this.pName; }
         public void setPlayerLevel(byte lvl) { this.pLvl = lvl; }
