@@ -20,7 +20,7 @@ namespace RPGBattleSystem.Sys.Enemy
             setEnemyHp(20);// enemy hp
         }// Enemy initiation [...]
 
-        #region Enemy Incapsulation [...]
+        #region Enemy Encapsulation [...]
         public void setEnemyName(string name) { this.eName = name; }
         public string getEnemyName() { return this.eName; }
         public void setEnemyLevel(byte lvl) { this.eLvl = lvl; }
