@@ -1,0 +1,7 @@
+C:\Users\Larissa\Documents\Visual Studio 2019\repos\RPGBattleSystem\bin\Debug\RPGBattleSystem.exe.config
+C:\Users\Larissa\Documents\Visual Studio 2019\repos\RPGBattleSystem\bin\Debug\RPGBattleSystem.exe
+C:\Users\Larissa\Documents\Visual Studio 2019\repos\RPGBattleSystem\bin\Debug\RPGBattleSystem.pdb
+C:\Users\Larissa\Documents\Visual Studio 2019\repos\RPGBattleSystem\obj\Debug\RPGBattleSystem.csprojAssemblyReference.cache
+C:\Users\Larissa\Documents\Visual Studio 2019\repos\RPGBattleSystem\obj\Debug\RPGBattleSystem.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Documents\Visual Studio 2019\repos\RPGBattleSystem\obj\Debug\RPGBattleSystem.exe
+C:\Users\Larissa\Documents\Visual Studio 2019\repos\RPGBattleSystem\obj\Debug\RPGBattleSystem.pdb
